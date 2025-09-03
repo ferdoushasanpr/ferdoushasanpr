@@ -1,4 +1,4 @@
-# 👋 Hi, I’m \Ferdous Hasan
+# 👋 Hi, I’m Ferdous Hasan
 
 🚀 **Passionate Developer | Lifelong Learner | Problem Solver**
 
@@ -37,10 +37,10 @@ I love building software that makes a difference, learning new technologies, and
 
 ## 🤝 Connect With Me
 
-* 🌐 Portfolio: \[[your-portfolio-link]](https://ferdoushasandev.github.io/)
-* 💼 LinkedIn: \[[your-linkedin-link]](https://www.linkedin.com/in/ferdous-hasan-ador/)
-* 🐦 Twitter/X: \[[your-twitter-link]](https://x.com/theFerdousHasan)
-* 📧 Email: \ferdoushasanpr@gmail.com
+* 🌐 Portfolio: https://ferdoushasandev.github.io/
+* 💼 LinkedIn: https://www.linkedin.com/in/ferdous-hasan-ador/
+* 🐦 Twitter/X: https://x.com/theFerdousHasan
+* 📧 Email: ferdoushasanpr@gmail.com
 
 ---
 
