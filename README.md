@@ -9,9 +9,9 @@ I love building software that makes a difference, learning new technologies, and
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning: **\App Development**
-* 💼 Interested in: **\AI Development**
-* 🔭 Working on: **\MERN Stack App Development**
+* 🌱 Currently learning: **App Development**
+* 💼 Interested in: **AI Development**
+* 🔭 Working on: **MERN Stack App Development**
 * 🎯 Goal: **Becoming a versatile full-stack developer & exploring advanced technologies like AI and Cloud**
 * ⚡ Fun fact: **I enjoy solving algorithmic problems and exploring real-world project ideas**
 
