@@ -1,4 +1,4 @@
-# 👋 Hi, I’m \[Your Name]
+# 👋 Hi, I’m \Ferdous Hasan
 
 🚀 **Passionate Developer | Lifelong Learner | Problem Solver**
 
@@ -9,9 +9,9 @@ I love building software that makes a difference, learning new technologies, and
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning: **\[your current focus, e.g., AI Development, React Native, Cloud Engineering]**
-* 💼 Interested in: **\[your interests, e.g., Web Development, Software Engineering, Competitive Programming]**
-* 🔭 Working on: **\[current project or area, e.g., a MERN e-commerce platform, a Django web app]**
+* 🌱 Currently learning: **\App Development**
+* 💼 Interested in: **\AI Development**
+* 🔭 Working on: **\MERN Stack App Development**
 * 🎯 Goal: **Becoming a versatile full-stack developer & exploring advanced technologies like AI and Cloud**
 * ⚡ Fun fact: **I enjoy solving algorithmic problems and exploring real-world project ideas**
 
@@ -20,11 +20,11 @@ I love building software that makes a difference, learning new technologies, and
 ## 🛠️ Tech Stack
 
 **Languages**: JavaScript, Python, Java, C++, C#
-**Frontend**: React.js, React Native, HTML, CSS, Tailwind
-**Backend**: Node.js, Express.js, Django, Flask
+**Frontend**: React.js, React Native, HTML, CSS, Bootstrap
+**Backend**: Node.js, Express.js
 **Database**: MySQL, MongoDB, SQLite, PostgreSQL
-**Tools**: Git, GitHub, VS Code, Docker, Postman
-**Other Interests**: Cloud Engineering ☁️, Ethical Hacking 🔐, AI 🤖
+**Tools**: Git, GitHub, VS Code, Postman
+**Other Interests**: AI 🤖
 
 ---
 
@@ -37,10 +37,10 @@ I love building software that makes a difference, learning new technologies, and
 
 ## 🤝 Connect With Me
 
-* 🌐 Portfolio: \[your-portfolio-link]
-* 💼 LinkedIn: \[your-linkedin-link]
-* 🐦 Twitter/X: \[your-twitter-link]
-* 📧 Email: \[your-email]
+* 🌐 Portfolio: \[[your-portfolio-link]](https://ferdoushasandev.github.io/)
+* 💼 LinkedIn: \[[your-linkedin-link]](https://www.linkedin.com/in/ferdous-hasan-ador/)
+* 🐦 Twitter/X: \[[your-twitter-link]](https://x.com/theFerdousHasan)
+* 📧 Email: \ferdoushasanpr@gmail.com
 
 ---
 
