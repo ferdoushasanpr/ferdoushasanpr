@@ -17,6 +17,21 @@ I love building software that solves real-world problems, learning new technolog
 
 ---
 
+## 🧩 Featured Project
+
+### 🌟 Lumina Bazaar — Full-Stack E-commerce (MERN)
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+**Roles:** Admin & Customer
+**Key Features:**
+
+* Admin: create/update/delete products, manage categories
+* Customer: browse products, view details, cart & checkout via payment gateway
+* Useful filters for faster product discovery
+  🔗 **Live/Repo:** https://luminabazaar.github.io/;
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**: JavaScript | Python | Java | C++
