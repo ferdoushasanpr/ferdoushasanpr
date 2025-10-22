@@ -28,7 +28,22 @@ I love building software that solves real-world problems, learning new technolog
 * Admin: create/update/delete products, manage categories
 * Customer: browse products, view details, cart & checkout via payment gateway
 * Useful filters for faster product discovery
-  🔗 **Live/Repo:** https://luminabazaar.github.io/;
+  🔗 **Live/Repo:** https://luminabazaar.github.io/
+
+---
+
+### 🍕 Pizzeria — Modern Pizza Restaurant Website
+
+**Tech:** HTML, CSS, Bootstrap  
+**Type:** Frontend Website  
+**Key Features:**
+
+* Attractive **hero section** with a featured pizza  
+* **Latest update** section showcasing new pizza items  
+* Well-structured **menu** for browsing varieties  
+* Visually rich **gallery** of pizzas  
+* **Responsive footer** with social media links  
+  🔗 **Live/Repo:** [pizzaria](https://ferdoushasanpr.github.io/ferdoushasanpr/pizzaria)
 
 ---
 
