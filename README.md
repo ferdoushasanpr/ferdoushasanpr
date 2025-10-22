@@ -43,7 +43,7 @@ I love building software that solves real-world problems, learning new technolog
 * Well-structured **menu** for browsing varieties  
 * Visually rich **gallery** of pizzas  
 * **Responsive footer** with social media links  
-  🔗 **Live/Repo:** [pizzaria](https://ferdoushasanpr.github.io/ferdoushasanpr/pizzaria)
+  🔗 **Live/Repo:** [pizzaria](https://github.com/ferdoushasanpr/pizzaria)
 
 ---
 
@@ -87,6 +87,8 @@ I love building software that solves real-world problems, learning new technolog
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ferdoushasanpr&theme=dark)](https://git.io/streak-stats)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdoushasanpr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ferdoushasanpr&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-contributions.vercel.app/ferdoushasanpr.svg)
+
 
 ---
 
