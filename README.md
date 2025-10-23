@@ -43,7 +43,7 @@ I love building software that solves real-world problems, learning new technolog
 * Well-structured **menu** for browsing varieties  
 * Visually rich **gallery** of pizzas  
 * **Responsive footer** with social media links  
-  🔗 **Live/Repo:** [pizzaria](https://github.com/ferdoushasanpr/pizzeria/)
+  🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/pizzeria/](https://ferdoushasanpr.github.io/pizzeria/)
 
 ---
 
