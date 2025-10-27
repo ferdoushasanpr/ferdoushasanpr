@@ -19,6 +19,23 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧩 Featured Project
 
+### 🧁 Food Recipe App — Flutter-Based Meal Browser
+
+**Tech:** Flutter, Dart
+**Type:** Mobile Application
+
+**Key Features:**
+
+* 🏠 **Home Screen:** Displays a list of food categories
+* 🍛 **Meals Screen:** Shows meals under each selected category
+* 📖 **Meal Detail Screen:** Displays preparation time, complexity, ingredients, and steps
+* ⭐ **Favorites Screen:** Allows marking and viewing favorite meals
+* 🔍 **Filter Screen:** Lets users filter meals based on dietary preferences
+
+🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/foodrecipeapp](https://github.com/ferdoushasanpr/foodrecipeapp)
+
+---
+
 ### 🌟 Lumina Bazaar — Full-Stack E-commerce (MERN)
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
@@ -41,8 +58,7 @@ I love building software that solves real-world problems, learning new technolog
 * Attractive **hero section** with a featured pizza  
 * **Latest update** section showcasing new pizza items  
 * Well-structured **menu** for browsing varieties  
-* Visually rich **gallery** of pizzas  
-* **Responsive footer** with social media links  
+* Visually rich **gallery** of pizzas 
   🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/pizzeria/](https://ferdoushasanpr.github.io/pizzeria/)
 
 ---
