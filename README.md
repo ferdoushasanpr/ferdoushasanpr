@@ -36,6 +36,24 @@ I love building software that solves real-world problems, learning new technolog
 
 ---
 
+### 💰 Hamba Expense Tracker — Flutter Expense Management App
+
+**Tech:** Flutter, Firebase, Riverpod
+**Type:** Mobile Application
+
+**Key Features:**
+
+* 📊 **Home Screen:** Displays an interactive category-wise expense chart with percentages
+* 🧾 **Expense List:** Shows all expenses below the chart with category and amount
+* ➕ **Add Expense Screen:** Input fields for title, amount, and category
+* 🔄 **Cloud Sync:** Expenses stored and fetched in real-time from **Firebase**
+* 🗑️ **Swipe to Delete:** Remove an expense by swiping left or right
+* 🌐 **State Management:** Powered by **Flutter Riverpod** for efficient and reactive data flow
+
+🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/hamba-expense-tracker](https://github.com/ferdoushasanpr/hamba-expense-tracker)
+
+---
+
 ### 🌟 Lumina Bazaar — Full-Stack E-commerce (MERN)
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
