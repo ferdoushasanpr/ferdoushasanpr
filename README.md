@@ -16,85 +16,45 @@ I love building software that solves real-world problems, learning new technolog
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Projects
 
 ### 🧁 Food Recipe App — Flutter-Based Meal Browser
 
-**Tech:** Flutter, Dart
-**Type:** Mobile Application
-
-**Key Features:**
-
-* 🏠 **Home Screen:** Displays a list of food categories
-* 🍛 **Meals Screen:** Shows meals under each selected category
-* 📖 **Meal Detail Screen:** Displays preparation time, complexity, ingredients, and steps
-* ⭐ **Favorites Screen:** Allows marking and viewing favorite meals
-* 🔍 **Filter Screen:** Lets users filter meals based on dietary preferences
-
-🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/foodrecipeapp](https://github.com/ferdoushasanpr/foodrecipeapp)
+**Tech:** Flutter, Dart | **Type:** Mobile App
+Displays food categories, meals, and detailed recipes with ingredients, steps, and favorite filtering.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/foodrecipeapp)
 
 ---
 
-### 💰 Hamba Expense Tracker — Flutter Expense Management App
+### 💰 Hamba Expense Tracker — Flutter Expense Manager
 
-**Tech:** Flutter, Firebase, Riverpod
-**Type:** Mobile Application
-
-**Key Features:**
-
-* 📊 **Home Screen:** Displays an interactive category-wise expense chart with percentages
-* 🧾 **Expense List:** Shows all expenses below the chart with category and amount
-* ➕ **Add Expense Screen:** Input fields for title, amount, and category
-* 🔄 **Cloud Sync:** Expenses stored and fetched in real-time from **Firebase**
-* 🗑️ **Swipe to Delete:** Remove an expense by swiping left or right
-* 🌐 **State Management:** Powered by **Flutter Riverpod** for efficient and reactive data flow
-
-🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/hamba-expense-tracker](https://github.com/ferdoushasanpr/hamba-expense-tracker)
+**Tech:** Flutter, Firebase, Riverpod | **Type:** Mobile App
+Manage expenses with real-time cloud sync, visual charts, and swipe-to-delete features.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/hamba-expense-tracker)
 
 ---
 
 ### 🍔 BurgerBuilder — React Burger Customization App
 
-**Tech:** ReactJS, Redux, Firebase  
-**Type:** Web Application  
-
-**Key Features:**
-
-* 👤 **User Authentication:** Sign up and sign in using Firebase  
-* 🥗 **Interactive Burger Builder:** Add or remove salad, cheese, and meat dynamically  
-* 💰 **Live Price Calculation:** Price updates in real-time as ingredients are added or removed  
-* 🧾 **Checkout Flow:** Input address, phone number, and payment method before placing an order  
-* 📦 **Order History:** View all previously placed orders  
-* ⚛️ **Redux State Management** for smooth and predictable app behavior  
-
-🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/burger-builder](https://github.com/ferdoushasanpr/burger-builder)
+**Tech:** ReactJS, Redux, Firebase | **Type:** Web App
+Build custom burgers, calculate prices live, and manage orders with Firebase authentication.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/burger-builder)
 
 ---
 
-### 🌟 Lumina Bazaar — Full-Stack E-commerce (MERN)
+### 🌟 Lumina Bazaar — MERN E-commerce Platform
 
-**Tech:** React.js, Node.js, Express.js, MongoDB
-**Type:** Web Application 
-**Key Features:**
-
-* Admin: create/update/delete products, manage categories
-* Customer: browse products, view details, cart & checkout via payment gateway
-* Useful filters for faster product discovery
-  🔗 **Live/Repo:** https://luminabazaar.github.io/
+**Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
+Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
+🔗 [Live Site](https://luminabazaar.github.io/)
 
 ---
 
-### 🍕 Pizzeria — Modern Pizza Restaurant Website
+### 🍕 Pizzeria — Modern Restaurant Website
 
-**Tech:** HTML, CSS, Bootstrap  
-**Type:** Frontend Website  
-**Key Features:**
-
-* Attractive **hero section** with a featured pizza  
-* **Latest update** section showcasing new pizza items  
-* Well-structured **menu** for browsing varieties  
-* Visually rich **gallery** of pizzas 
-  🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/pizzeria/](https://ferdoushasanpr.github.io/pizzeria/)
+**Tech:** HTML, CSS, Bootstrap | **Type:** Frontend Website
+Visually engaging pizza menu site featuring gallery and latest offers.
+🔗 [Live Site](https://ferdoushasanpr.github.io/pizzeria/)
 
 ---
 
