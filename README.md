@@ -13,7 +13,6 @@ I love building software that solves real-world problems, learning new technolog
 * 🔭 Interested in: **AI Development**
 * 💼 Skilled in: **MERN Stack App Development, React Native, and Competitive Programming**
 * 🎯 Goal: **To become a versatile software engineer and explore advanced fields like AI and Cloud Security**
-* ⚡ Fun fact: **I enjoy solving algorithmic problems and exploring real-world project ideas**
 
 ---
 
@@ -54,10 +53,28 @@ I love building software that solves real-world problems, learning new technolog
 
 ---
 
+### 🍔 BurgerBuilder — React Burger Customization App
+
+**Tech:** ReactJS, Redux, Firebase  
+**Type:** Web Application  
+
+**Key Features:**
+
+* 👤 **User Authentication:** Sign up and sign in using Firebase  
+* 🥗 **Interactive Burger Builder:** Add or remove salad, cheese, and meat dynamically  
+* 💰 **Live Price Calculation:** Price updates in real-time as ingredients are added or removed  
+* 🧾 **Checkout Flow:** Input address, phone number, and payment method before placing an order  
+* 📦 **Order History:** View all previously placed orders  
+* ⚛️ **Redux State Management** for smooth and predictable app behavior  
+
+🔗 **Live/Repo:** [https://github.com/ferdoushasanpr/burger-builder](https://github.com/ferdoushasanpr/burger-builder)
+
+---
+
 ### 🌟 Lumina Bazaar — Full-Stack E-commerce (MERN)
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
-**Roles:** Admin & Customer
+**Type:** Web Application 
 **Key Features:**
 
 * Admin: create/update/delete products, manage categories
