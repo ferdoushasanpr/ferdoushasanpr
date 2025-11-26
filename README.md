@@ -9,9 +9,8 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning: **App Development**
-* 🔭 Interested in: **AI Development**
-* 💼 Skilled in: **MERN Stack App Development, React Native, and Competitive Programming**
+* 🌱 Currently learning: **AI Development**
+* 💼 Skilled in: **Flutter App Development, MERN Stack App Development, React Native, and Competitive Programming**
 * 🎯 Goal: **To become a versatile software engineer and explore advanced fields like AI and Cloud Security**
 
 ---
@@ -27,21 +26,30 @@ Displays food categories, meals, and detailed recipes with ingredients, steps, a
 
 ---
 
-### 💰 Hamba Expense Tracker — Flutter Expense Manager
-
-**Tech:** Flutter, Firebase, Riverpod | **Type:** Mobile App
-
-Manage expenses with real-time cloud sync, visual charts, and swipe-to-delete features.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/hamba-expense-tracker)
-
----
-
 ### 📍 PlaceBook — Flutter Location-Based Memory Saver
 
 **Tech:** Flutter, SQLite, Riverpod, Flutter Map | **Type:** Mobile App
 
 Capture photos, pick images from the gallery, and save places with precise locations fetched via map selection or current device location. Stores all data locally using SQLite.
 🔗 [GitHub Repo](https://github.com/ferdoushasanpr/placebook)
+
+---
+
+### 💬 Flutter Chat Application — Real-Time Messaging App
+
+**Tech:** Flutter, Firebase SDK, Firebase Authentication, Cloud Firestore | **Type:** Mobile App
+
+Real-time chat app with secure email/password authentication, user-to-user messaging, and Firestore-backed message syncing. Supports sign up, sign in, and instant message delivery with clean UI and message bubbles. 
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/flutter-chat-application)
+
+---
+
+### 💰 Hamba Expense Tracker — Flutter Expense Manager
+
+**Tech:** Flutter, Firebase, Riverpod | **Type:** Mobile App
+
+Manage expenses with real-time cloud sync, visual charts, and swipe-to-delete features.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/hamba-expense-tracker)
 
 ---
 
