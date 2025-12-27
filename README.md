@@ -119,7 +119,6 @@ Visually engaging pizza menu site featuring gallery and latest offers.
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ferdoushasanpr&theme=dark)](https://git.io/streak-stats)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdoushasanpr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ferdoushasanpr&layout=compact&theme=radical)
 
