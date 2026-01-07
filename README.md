@@ -35,12 +35,13 @@ Capture photos, pick images from the gallery, and save places with precise locat
 
 ---
 
-### 💬 Flutter Chat Application — Real-Time Messaging App
+### 🗣️ Murmur — Social Media Mobile App
 
-**Tech:** Flutter, Firebase SDK, Firebase Authentication, Cloud Firestore | **Type:** Mobile App
+**Tech:** React Native, TypeScript, Node.js, Express.js, MongoDB | **Type:** Mobile App
 
-Real-time chat app with secure email/password authentication, user-to-user messaging, and Firestore-backed message syncing. Supports sign up, sign in, and instant message delivery with clean UI and message bubbles. 
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/flutter-chat-application)
+A cross-platform social app where users share short posts (*murmurs*), follow others, and interact through likes. Includes JWT-based authentication, global feed with infinite scrolling, user profiles, and full post management.
+
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/Murmur-React-Native-Application)
 
 ---
 
@@ -68,15 +69,6 @@ Build custom burgers, calculate prices live, and manage orders with Firebase aut
 
 Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
 🔗 [Live Site](https://luminabazaar.github.io/)
-
----
-
-### 🍕 Pizzeria — Modern Restaurant Website
-
-**Tech:** HTML, CSS, Bootstrap | **Type:** Frontend Website
-
-Visually engaging pizza menu site featuring gallery and latest offers.
-🔗 [Live Site](https://ferdoushasanpr.github.io/pizzeria/)
 
 ---
 
