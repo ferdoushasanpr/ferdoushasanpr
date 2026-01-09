@@ -68,6 +68,7 @@ Build custom burgers, calculate prices live, and manage orders with Firebase aut
 **Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
 
 Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/LuminaBazaar-React-Based-Ecommerce-Application)
 🔗 [Live Site](https://luminabazaar.github.io/)
 
 ---
