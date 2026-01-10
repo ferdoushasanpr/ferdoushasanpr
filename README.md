@@ -112,8 +112,9 @@ Full-stack e-commerce with product management, cart, checkout, and admin dashboa
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdoushasanpr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ferdoushasanpr&layout=compact&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferdoushasanpr&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferdoushasanpr&theme=radical)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdoushasanpr&theme=radical)
 
 
 ---
