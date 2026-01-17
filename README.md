@@ -86,6 +86,7 @@ Full-stack e-commerce with product management, cart, checkout, and admin dashboa
 ### Frontend
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"></code>
 <code><img height="40" src="https://reactnative.dev/img/header_logo.svg" alt="React Native"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron JS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
