@@ -84,6 +84,7 @@ Full-stack e-commerce with product management, cart, checkout, and admin dashboa
 
 
 ### Frontend
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"></code>
 <code><img height="40" src="https://reactnative.dev/img/header_logo.svg" alt="React Native"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron JS"></code>
@@ -107,6 +108,7 @@ Full-stack e-commerce with product management, cart, checkout, and admin dashboa
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
 
