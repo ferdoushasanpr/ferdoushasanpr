@@ -17,6 +17,25 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧩 Featured Projects
 
+### 🍔 BurgerBuilder — React Burger Customization App
+
+**Tech:** ReactJS, Redux, Firebase | **Type:** Web App
+
+Build custom burgers, calculate prices live, and manage orders with Firebase authentication.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/burger-builder)
+
+---
+
+### 🌟 Lumina Bazaar — MERN E-commerce Platform
+
+**Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
+
+Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/LuminaBazaar-React-Based-Ecommerce-Application)
+🔗 [Live Site](https://luminabazaar.github.io/)
+
+---
+
 ### 🧁 Food Recipe App — Flutter-Based Meal Browser
 
 **Tech:** Flutter, Dart | **Type:** Mobile App 
@@ -51,25 +70,6 @@ A cross-platform social app where users share short posts (*murmurs*), follow ot
 
 Manage expenses with real-time cloud sync, visual charts, and swipe-to-delete features.
 🔗 [GitHub Repo](https://github.com/ferdoushasanpr/hamba-expense-tracker)
-
----
-
-### 🍔 BurgerBuilder — React Burger Customization App
-
-**Tech:** ReactJS, Redux, Firebase | **Type:** Web App
-
-Build custom burgers, calculate prices live, and manage orders with Firebase authentication.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/burger-builder)
-
----
-
-### 🌟 Lumina Bazaar — MERN E-commerce Platform
-
-**Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
-
-Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/LuminaBazaar-React-Based-Ecommerce-Application)
-🔗 [Live Site](https://luminabazaar.github.io/)
 
 ---
 
