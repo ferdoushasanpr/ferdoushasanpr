@@ -9,8 +9,8 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning: **AI Development**
 * 💼 Skilled in: **Flutter App Development, MERN Stack App Development, React Native, and Competitive Programming**
+* 🌱 Interested in: **AI Development**
 * 🎯 Goal: **To become a versatile software engineer and explore advanced fields like AI and Cloud Security**
 
 ---
