@@ -17,6 +17,16 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧩 Featured Projects
 
+### 🌟 Lumina Bazaar — MERN E-commerce Platform
+
+**Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
+
+Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/LuminaBazaar-React-Based-Ecommerce-Application)
+🔗 [Live Site](https://luminabazaar.github.io/)
+
+---
+
 ### 🍔 BurgerBuilder — React Burger Customization App
 
 **Tech:** ReactJS, Redux, Firebase | **Type:** Web App
@@ -26,13 +36,13 @@ Build custom burgers, calculate prices live, and manage orders with Firebase aut
 
 ---
 
-### 🌟 Lumina Bazaar — MERN E-commerce Platform
+### 🗣️ Murmur — Social Media Mobile App
 
-**Tech:** React.js, Node.js, Express.js, MongoDB | **Type:** Web App
+**Tech:** React Native, TypeScript, Node.js, Express.js, MongoDB | **Type:** Mobile App
 
-Full-stack e-commerce with product management, cart, checkout, and admin dashboard.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/LuminaBazaar-React-Based-Ecommerce-Application)
-🔗 [Live Site](https://luminabazaar.github.io/)
+A cross-platform social app where users share short posts (*murmurs*), follow others, and interact through likes. Includes JWT-based authentication, global feed with infinite scrolling, user profiles, and full post management.
+
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/Murmur-React-Native-Application)
 
 ---
 
@@ -51,16 +61,6 @@ Displays food categories, meals, and detailed recipes with ingredients, steps, a
 
 Capture photos, pick images from the gallery, and save places with precise locations fetched via map selection or current device location. Stores all data locally using SQLite.
 🔗 [GitHub Repo](https://github.com/ferdoushasanpr/placebook)
-
----
-
-### 🗣️ Murmur — Social Media Mobile App
-
-**Tech:** React Native, TypeScript, Node.js, Express.js, MongoDB | **Type:** Mobile App
-
-A cross-platform social app where users share short posts (*murmurs*), follow others, and interact through likes. Includes JWT-based authentication, global feed with infinite scrolling, user profiles, and full post management.
-
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/Murmur-React-Native-Application)
 
 ---
 
