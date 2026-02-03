@@ -46,12 +46,13 @@ A cross-platform social app where users share short posts (*murmurs*), follow ot
 
 ---
 
-### 🧁 Food Recipe App — Flutter-Based Meal Browser
+### 💰 Personal Wallet — Flutter Finance Tracker
 
-**Tech:** Flutter, Dart | **Type:** Mobile App 
+**Tech:** Flutter, Riverpod, SQLite, fl_chart | **Type:** Mobile App
 
-Displays food categories, meals, and detailed recipes with ingredients, steps, and favorite filtering.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/foodrecipeapp)
+A dark-themed personal finance tracker for managing multiple wallets (Bank, Cash, Savings), tracking income & expenses, and performing weekly financial calculations. Features persistent local storage, real-time savings calculation, and a polished dark UI built with Google Fonts.
+
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/Personal-Wallet)
 
 ---
 
@@ -64,12 +65,12 @@ Capture photos, pick images from the gallery, and save places with precise locat
 
 ---
 
-### 💰 Hamba Expense Tracker — Flutter Expense Manager
+### 🧁 Food Recipe App — Flutter-Based Meal Browser
 
-**Tech:** Flutter, Firebase, Riverpod | **Type:** Mobile App
+**Tech:** Flutter, Dart | **Type:** Mobile App 
 
-Manage expenses with real-time cloud sync, visual charts, and swipe-to-delete features.
-🔗 [GitHub Repo](https://github.com/ferdoushasanpr/hamba-expense-tracker)
+Displays food categories, meals, and detailed recipes with ingredients, steps, and favorite filtering.
+🔗 [GitHub Repo](https://github.com/ferdoushasanpr/foodrecipeapp)
 
 ---
 
