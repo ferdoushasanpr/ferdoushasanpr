@@ -9,7 +9,7 @@ I love building software that solves real-world problems, learning new technolog
 
 ## 🧑‍💻 About Me
 
-* 💼 Skilled in: **Flutter App Development, MERN Stack App Development, React Native, and Competitive Programming**
+* 💼 Skilled in: **MERN Stack App Development with Next.js, React Native, Flutter App Development, and Competitive Programming**
 * 🌱 Interested in: **AI Development**
 * 🎯 Goal: **To become a versatile software engineer and explore advanced fields like AI and Cloud Security**
 
@@ -99,6 +99,7 @@ Displays food categories, meals, and detailed recipes with ingredients, steps, a
 ### Backend
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" alt="Mongoose"></code>
 
 ### Database
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
