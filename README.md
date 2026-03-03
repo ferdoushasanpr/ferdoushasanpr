@@ -100,6 +100,7 @@ Displays food categories, meals, and detailed recipes with ingredients, steps, a
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png" alt="Mongoose"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="Prisma ORM"></code>
 
 ### Database
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
